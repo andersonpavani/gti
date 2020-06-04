@@ -1,2 +1,2 @@
-# gti
-GTI - Gestor de Tesouraria para Igrejas
+# gti-view
+GTI - Gestor de Tesouraria para Igrejas - FrontEnd
